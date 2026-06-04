@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_password_manager_cli_FILE D:/PasswordManager/build/password_manager_cli.exe)
+set(__QT_DEPLOY_TARGET_password_manager_cli_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_password_manager_cli_RUNTIME_DLLS )
+set(__QT_DEPLOY_TARGET_password_manager_gui_FILE D:/PasswordManager/build/password_manager_gui.exe)
+set(__QT_DEPLOY_TARGET_password_manager_gui_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_password_manager_gui_RUNTIME_DLLS D:/DevTools/6.7.2/mingw_64/bin/Qt6Widgets.dll;D:/DevTools/6.7.2/mingw_64/bin/Qt6Gui.dll;D:/DevTools/6.7.2/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,3 @@
+D:\DevTools\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\password_manager_cli.dir/objects.a
+D:\DevTools\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\password_manager_cli.dir/objects.a @CMakeFiles\password_manager_cli.dir\objects1.rsp
+D:\DevTools\Tools\mingw1120_64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\password_manager_cli.dir/objects.a -Wl,--no-whole-archive -o password_manager_cli.exe -Wl,--out-implib,libpassword_manager_cli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\password_manager_cli.dir\linkLibs.rsp

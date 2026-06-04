@@ -1,0 +1,8 @@
+D:/PasswordManager/build/CMakeFiles/password_manager_cli.dir
+D:/PasswordManager/build/CMakeFiles/password_manager_gui.dir
+D:/PasswordManager/build/CMakeFiles/edit_cache.dir
+D:/PasswordManager/build/CMakeFiles/rebuild_cache.dir
+D:/PasswordManager/build/CMakeFiles/password_manager_cli_autogen_timestamp_deps.dir
+D:/PasswordManager/build/CMakeFiles/password_manager_cli_autogen.dir
+D:/PasswordManager/build/CMakeFiles/password_manager_gui_autogen_timestamp_deps.dir
+D:/PasswordManager/build/CMakeFiles/password_manager_gui_autogen.dir
